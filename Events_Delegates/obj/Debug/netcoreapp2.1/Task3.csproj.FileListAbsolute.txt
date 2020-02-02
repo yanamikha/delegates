@@ -1,0 +1,10 @@
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\bin\Debug\netcoreapp2.1\Task3.deps.json
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.json
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.dev.json
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\bin\Debug\netcoreapp2.1\Task3.dll
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\bin\Debug\netcoreapp2.1\Task3.pdb
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\obj\Debug\netcoreapp2.1\Task3.csprojAssemblyReference.cache
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\obj\Debug\netcoreapp2.1\Task3.AssemblyInfoInputs.cache
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\obj\Debug\netcoreapp2.1\Task3.AssemblyInfo.cs
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\obj\Debug\netcoreapp2.1\Task3.dll
+D:\dotNet\delegates\Events_Delegates\Events_Delegates\obj\Debug\netcoreapp2.1\Task3.pdb
